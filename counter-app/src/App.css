@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+  background-color: lightgreen;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  padding: 2%;
+  box-shadow: 10px 10px 5px 2px;
+}
+
+.btn-style1{
+  width: 100px;
+  height: 30px;
+  background-color: pink;
+}
+
+.btn-style2{
+  width: 100px;
+  height: 30px;
+  background-color: lightblue;
+}
+
+.btn-style3{
+  width: 100px;
+  height: 30px;
+  background-color: lightgray;
+}
