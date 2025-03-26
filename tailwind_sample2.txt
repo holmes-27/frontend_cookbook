@@ -1,0 +1,29 @@
+<!--- https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ovl14d7nzvygt069hc8.png --->
+
+<div class="bg-linear-to-r from-cyan-300 to-blue-600 h-200 flex justify-center items-center">
+  <div class="bg-white h-130 w-80">
+    <div class="ml-30">
+      <div class="bg-radial from-gray-200 to-gray-500 h-25 w-25 rounded-full mt-10">
+      </div>
+      <h1 class="ml-6 mt-2 font-extrabold">Harsha</h1>
+      <h1 class="text-gray-400 font-medium">AI Developer</h1>
+    </div>
+    <div>
+      <div class="h-10 bg-blue-100 mt-5 ml-5 mr-5 rounded-3xl flex justify-center items-center">
+        <h1>Github</h1>
+      </div>
+      <div class="h-10 bg-blue-100 mt-5 ml-5 mr-5 rounded-3xl flex justify-center items-center">
+        <h1 class="text-center">Twitter</h1>
+      </div>
+      <div class="h-10 bg-blue-100 mt-5 ml-5 mr-5 rounded-3xl flex justify-center items-center">
+        <h1 class="text-center">Facebook</h1>
+      </div>
+      <div class="h-10 bg-blue-100 mt-5 ml-5 mr-5 rounded-3xl flex justify-center items-center">
+        <h1 class="text-center">YouTube</h1>
+      </div>
+      <div class="h-10 bg-blue-100 mt-5 ml-5 mr-5 rounded-3xl flex justify-center items-center">
+        <h1 class="text-center">Email</h1>
+      </div>
+    </div>
+  </div>
+</div>

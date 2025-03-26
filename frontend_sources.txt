@@ -1,0 +1,18 @@
+Sources
+=======
+* Configure Tailwind CSS + Vite : https://www.youtube.com/watch?v=sHnGR8tIYMB4
+* React JS basic project : https://www.geeksforgeeks.org/create-a-form-using-reactjs/
+* React props basics : https://www.youtube.com/watch?v=uvEAvxWvwOs
+* React props drilling, useContext : https://www.youtube.com/watch?v=FpNfvbNYPsg
+* React useRef : https://www.youtube.com/watch?v=0cd4Qr1IhTg	https://www.youtube.com/watch?v=gLvsc3gjZnc
+* React useReducer : https://www.youtube.com/watch?v=Zva2TMTJYYM
+* React useMemo : https://www.youtube.com/watch?v=NG9McHaG2wA
+* React useCallback : https://www.youtube.com/watch?v=-SHRePwiGRs
+* Tailwind CSS : https://www.youtube.com/watch?v=6biMWgD6_JY
+* Game to learn CSS flexbox : https://flexboxfroggy.com/
+* Redux : https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+* React Router : https://www.youtube.com/watch?v=daLPhfRC0E4
+* Redux Toolkit : https://www.youtube.com/watch?v=QgK_-G-hWeA
+* Display Image in React : https://www.youtube.com/watch?v=MRbqLWAwqko
+* React Testing : https://www.youtube.com/watch?v=8ODJ2GpXJsY	https://testing-library.com/docs/queries/about/
+* Vitest Setup (React + Vite + Vitest + TypeScript) : https://johnsmilga.com/articles/2024/10/15
