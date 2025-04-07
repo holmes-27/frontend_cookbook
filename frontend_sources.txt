@@ -16,3 +16,6 @@ Sources
 * Display Image in React : https://www.youtube.com/watch?v=MRbqLWAwqko
 * React Testing : https://www.youtube.com/watch?v=8ODJ2GpXJsY	https://testing-library.com/docs/queries/about/
 * Vitest Setup (React + Vite + Vitest + TypeScript) : https://johnsmilga.com/articles/2024/10/15
+* Custom Fonts in Tailwind : https://www.youtube.com/watch?v=sMWfU60bwfI	https://smartcodehelper.com/2025/03/09/how-to-use-google-fonts-with-tailwind-css-in-a-react-app/
+* CSS position : https://www.youtube.com/watch?v=jnfyH1k2c38
+* Primereact dropdown : https://www.youtube.com/watch?v=xON1xAoYe2g
